@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PowerShell / git backups
+*.bak
+*.bak-*
+*.orig
+
+# Test vaults that people may create while trying the scripts
+/tmp/
+/test-vault/
