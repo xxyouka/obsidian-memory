@@ -4,6 +4,10 @@
 
 **English** — [Jump to the English section](#english).
 
+![Obsidian 阅读视图：笔记属性、双链、待办](docs/screenshot-note.png)
+
+*截图取自 demo 库（示例数据）：frontmatter 变成可点的属性面板，`[[双链]]` 可跳转，待办可直接勾选。*
+
 ---
 
 ## 它解决什么
